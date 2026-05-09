@@ -2,7 +2,7 @@ export const About = () => `
     <section id="sobre">
         <div class="container about reveal">
 
-            <img src="https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?q=80&w=1200&auto=format&fit=crop"
+            <img src="../img/mesa2.jpeg"
                 alt="Mesa posta elegante com louças finas e arranjos florais"
                 width="600"
                 height="450"

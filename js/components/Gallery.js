@@ -10,7 +10,7 @@ export const Gallery = () => `
             <div class="gallery">
 
                 <img class="reveal"
-                    src="https://images.unsplash.com/photo-1519225421980-715cb0215aed?q=80&w=1200&auto=format&fit=crop"
+                    src="../img/mesa1.jpeg"
                     alt="Decoração de mesa de casamento com detalhes em ouro"
                     width="400"
                     height="320"
@@ -24,7 +24,7 @@ export const Gallery = () => `
                     loading="lazy">
 
                 <img class="reveal"
-                    src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=1200&auto=format&fit=crop"
+                    src="../img/mesa3.jpg"
                     alt="Detalhes de mesa decorada com flores naturais"
                     width="400"
                     height="320"
