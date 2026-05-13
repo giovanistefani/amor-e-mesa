@@ -10,7 +10,7 @@ export const Contact = () => `
                     Entre em contato e solicite um orçamento personalizado para o seu evento.
                 </p>
 
-                <a class="btn" href="https://wa.me/5500000000000" target="_blank" rel="noopener noreferrer">
+                <a class="btn" href="https://wa.me/55048998171847" target="_blank" rel="noopener noreferrer">
                     Falar no WhatsApp
                 </a>
 

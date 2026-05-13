@@ -2,10 +2,10 @@ export const About = () => `
     <section id="sobre">
         <div class="container about reveal">
 
-            <img src="../img/mesa2.jpeg"
+            <img src="../img/mesa1.jpeg"
                 alt="Mesa posta elegante com louças finas e arranjos florais"
-                width="600"
-                height="450"
+                width="500"
+                height="500"
                 loading="lazy">
 
             <div class="about-text">
